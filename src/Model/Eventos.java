@@ -20,3 +20,4 @@ public class Eventos implements Serializable {
 
     private Categorias categorias;
 }
+
